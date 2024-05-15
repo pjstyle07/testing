@@ -1,27 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="./src/assets/img/icon.png" width="100" />
-</div>
-<div align="center">
-  <p>Check this on live</p>
-</div>
-<h1 align="center">
-     <a href="https://juyelhushen.netlify.app/">👉Joefolio</a>
-     </h1>
-<p align="center">
-  A simple Developer portfolio of built with <a href="https://angular.io/" target="_blank">Angular</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-
-![demo](./src/assets/img/demo.png)
-
-## 🚨 Forking this repo (please read!)
-
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
-
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this portfolio website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
-
-### TL;DR
-
-Yes, you can fork this repo.
 
 ## Technologies used 🛠️
 
@@ -35,7 +11,7 @@ Yes, you can fork this repo.
 
 ---
 
-# Joefolio
+# Pj's
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
